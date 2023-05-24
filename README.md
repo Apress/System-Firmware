@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*System Firmware: An Essential Guide to Open Source and Embedded Solutions *](https://www.link.springer.com/book/10.1007/9781484279380) by Subrata Banik and Vincent Zimmer(Apress, 2022).
+This repository accompanies [*System Firmware: An Essential Guide to Open Source and Embedded Solutions *](https://link.springer.com/book/10.1007/978-1-4842-7939-7) by Subrata Banik and Vincent Zimmer(Apress, 2022).
 
 [comment]: #cover
 ![Cover image](9781484279380.JPG)
